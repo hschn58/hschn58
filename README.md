@@ -3,7 +3,7 @@
 **Nature Sensors co-author · research & software engineer · building toward ML & AI interpretability**
 
 I build systems that extract and reveal hidden structure in complex information.
-2026 UW–Madison graduate triple-major (Mathematics · Physics · AMEP (Applied Math/Engineering/Physics)).
+2026 UW–Madison graduate triple-major (Mathematics · Physics · AMEP (Applied Math, Engineering, and Physics)).
 
 **Research** — Co-author, *"Robust Spectral Sensor for Standoff Biometric Detection,"*
 **Nature Sensors** (Jan 2026); built the rPPG pipeline behind it (frequency-domain signal
