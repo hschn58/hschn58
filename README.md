@@ -16,7 +16,7 @@ I build systems that extract and reveal hidden structure in complex information.
 **Now** — focused on ML engineering & mechanistic interpretability; studying a
 topological-data-analysis view of grokking.
 
-Python (PyTorch, NumPy, SciPy, OpenCV) · LLM/agentic pipelines · math (group theory,
+Python (NumPy, SciPy, OpenCV) · LLM/agentic pipelines · math (group theory,
 real analysis, linear algebra) · DSP (FFT, wavelets)
 
 hschn4@gmail.com · [LinkedIn](https://linkedin.com/in/henry-schnieders) · open to ML / Research Engineer roles
