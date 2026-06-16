@@ -6,8 +6,7 @@ I build systems that extract and reveal hidden structure in complex information.
 2026 UW–Madison graduate triple-major (Mathematics · Physics · AMEP (Applied Math, Engineering, and Physics)).
 
 **Research** — Co-author, *"Robust Spectral Sensor for Standoff Biometric Detection,"*
-**Nature Sensors** (Jan 2026); built the rPPG pipeline behind it (frequency-domain signal
-extraction + motion-compensated tracking).
+**Nature Sensors** (Jan 2026); implemented and benchmarked the classical baseline methods for the rPPG pipeline behind it (frequency-domain signal extraction + motion-compensated tracking).
 
 **What I build**
 - **rPPG** — the Nature-paper pipeline: heart rate from video via FFT/wavelets + Lucas–Kanade stabilization.
@@ -17,7 +16,7 @@ extraction + motion-compensated tracking).
 **Now** — focused on ML engineering & mechanistic interpretability; studying a
 topological-data-analysis view of grokking.
 
-Python (PyTorch, NumPy, SciPy, OpenCV) · C++ · LLM/agentic pipelines · math (group theory,
+Python (PyTorch, NumPy, SciPy, OpenCV) · LLM/agentic pipelines · math (group theory,
 real analysis, linear algebra) · DSP (FFT, wavelets)
 
 hschn4@gmail.com · [LinkedIn](https://linkedin.com/in/henry-schnieders) · open to ML / Research Engineer roles
